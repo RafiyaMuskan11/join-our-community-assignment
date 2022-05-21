@@ -1,0 +1,60 @@
+h1 {
+    color: darkcyan;
+    font-size:50px;
+}
+
+h3 {
+    color: lawngreen;
+    font-size: 30px;
+
+}
+ 
+p{
+    color: rgb(80, 79, 79);
+    font-size: 20px;
+}
+.all {
+    display: flex;
+    text-align: left;
+    justify-content: flex-end;
+    background-position: 10%;
+}
+
+.all .team1 {
+    background-color: darkcyan;
+    height: 50vh;
+    width: 50vw;
+
+
+}
+
+.all h1 {
+    color: aliceblue;
+    margin-left: 10%;
+}
+
+.all p {
+    color: aliceblue;
+}
+
+.all .team2 {
+    background-color: rgb(14, 170, 14);
+    height: 50vh;
+    width: 50vw;
+
+
+
+
+}
+
+.all p {
+    margin-left: 10%;
+    font-size: larger;
+}
+
+input {
+    margin-left: 10%;
+    background-color: chartreuse;
+    text-align: center;
+    padding: 10px;
+}
